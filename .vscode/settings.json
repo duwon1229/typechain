@@ -1,0 +1,10 @@
+{
+    "launch": {
+        
+        "configurations": [],
+        "compounds": []
+    },
+    "workbench.settings.useSplitJSON": true,
+    "editor.formatOnSave": true,
+    
+}

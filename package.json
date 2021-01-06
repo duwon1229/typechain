@@ -1,0 +1,16 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "Learning Typescript by making a Blockchain with it",
+  "main": "index.js",
+  "repository": "https://github.com/duwon1229/typechain",
+  "author": "Na Duwon <endndnjs2@naver.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
